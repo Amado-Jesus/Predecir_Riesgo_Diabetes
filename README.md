@@ -48,6 +48,13 @@ Sistema de screening diabético basado en SVM que procesa 8 biomarcadores clíni
 
 ## 🖥️ Aplicación Web con Streamlit
 
+El archivo `new_data.csv` es una muestra del formato requerido por la aplicación.
+
+Este archivo sirve como referencia para que el usuario conozca cómo debe estructurar los datos antes de cargarlos en el sistema.
+
+La aplicación utiliza archivos con esta misma estructura para procesar nuevos pacientes y generar predicciones de riesgo de diabetes.
+
+
 La aplicación web fue desarrollada con [Streamlit App](https://riesgodiabetesapp-2ecsesokgsejq2utsesm8p.streamlit.app/ )  y cuenta con:
 * Carga de archivo CSV para ingreso masivo de datos de pacientes (8 variables biomarcadoras).
 * Botón para generar la clasificación de riesgo diabético (Bajo/Alto).
