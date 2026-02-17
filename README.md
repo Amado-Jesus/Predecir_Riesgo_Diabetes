@@ -57,7 +57,7 @@ La aplicación web fue desarrollada con [Streamlit App](https://riesgodiabetesap
 * Carga del modelo SVM sin necesidad de reentrenarlo.
 * Interfaz sencilla e intuitiva optimizada para personal de salud.
 
-El archivo `new_data.csv` es una muestra del formato requerido por la aplicación.
+El archivo `data/new_data.csv` es una muestra del formato requerido por la aplicación.
 
 Este archivo sirve como referencia para que el usuario conozca cómo debe estructurar los datos antes de cargarlos en el sistema.
 
